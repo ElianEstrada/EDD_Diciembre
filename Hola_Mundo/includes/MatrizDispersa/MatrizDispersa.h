@@ -10,10 +10,10 @@
 class MatrizDispersa {
 
     // cabecera horizontal
-    Node *cabeH
+    Node *cabeH;
 
     // cabecera Vertical
-    Node *cabeV
+    Node *cabeV;
 
     MatrizDispersa();
 
