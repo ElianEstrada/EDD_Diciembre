@@ -12,4 +12,14 @@ add_executable(Hola_Mundo main.cpp
         includes/MatrizDispersa/Node.h
         src/MatrizDispersa/Node.cpp
         includes/MatrizDispersa/MatrizDispersa.h
-        src/MatrizDispersa/MatrizDispersa.cpp)
+        src/MatrizDispersa/MatrizDispersa.cpp
+        includes/Tree/NodeABB.h
+        src/Tree/NodeABB.cpp
+        includes/Tree/ABB.h
+        src/Tree/ABB.cpp
+        main5.cpp
+        includes/Tree/NodeAVL.h
+        src/Tree/NodeAVL.cpp
+        includes/Tree/AVL.h
+        src/Tree/AVL.cpp
+)

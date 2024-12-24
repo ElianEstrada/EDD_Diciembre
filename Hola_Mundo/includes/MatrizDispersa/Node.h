@@ -7,6 +7,7 @@
 
 
 class Node {
+public:
     // Valor
     int valor;
     // 6 apuntadores
